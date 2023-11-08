@@ -44,6 +44,7 @@ textarea {
 }
 input::-ms-clear {
   display: none;
+  cursor: pointer;
 }
 button {
   cursor: pointer;
@@ -807,7 +808,7 @@ body {
   align-items: center;
 }
 .footer__item {
-} 
+}
 @media (max-width: 500px) {
   .footer {
     padding: 30px 0px;
